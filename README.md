@@ -1,3 +1,13 @@
+### README FIRST
+
+This the first course project in the <b>Exploratory Data Analysis</b> course, which is part of the Data Science Specialization of JHU. The assignment is to reproduce the four plot shown in here.
+
+To reproduce the plots, run the desired script (e.g.: 'plot1.R' to get the first plot). There are eight files in the top-level folder as instructed: four '.png' files and four scripts.
+
+```
+As a final note, I would like to add for the potential reviewers that the difference between the axis labels in the original plots ("Thu", "Fri", "Sat") and the ones reproduced here ("jue.", "vie.", "sáb.") is due because the locale settings in my computer.
+```
+
 ## Introduction
 
 This assignment uses data from
